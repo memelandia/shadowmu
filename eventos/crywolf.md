@@ -1,8 +1,8 @@
 ---
-hidden: true
+icon: fort-awesome
 ---
 
-# 🏰 Crywolf
+# CRYWOLF
 
 ## 📝 En que consiste?
 
@@ -20,13 +20,13 @@ Para ingresar al mapa de **Crywolf**, puedes usar el **menú Mover** en el juego
 
 ## 🎯 Objetivo del Evento.
 
-Tu tarea consiste en proteger la **Estatua del Lobo** de [**Balgass**](broken-reference) y su formidable legión.
+Tu tarea consiste en proteger la **Estatua del Lobo** de [**Balgass**](../eventosprincipales/broken-reference/) y su formidable legión.
 
 Los elfos establecen una conexión con los altares para erigir un escudo protector de HP alrededor de la estatua.
 
 <figure><img src="../.gitbook/assets/image (336).png" alt="" width="563"><figcaption><p>Estatua del Lobo</p></figcaption></figure>
 
-Mientras tanto, a otros jugadores se les encomienda la tarea de defenderse de las criaturas que provienen de las fuerzas de **Balgass** , incluido el propio [**Balgass**](broken-reference) . El triunfo del evento depende de la **retención exitosa de los elfos conectados en los altares y la derrota final de Balgass** .
+Mientras tanto, a otros jugadores se les encomienda la tarea de defenderse de las criaturas que provienen de las fuerzas de **Balgass** , incluido el propio [**Balgass**](../eventosprincipales/broken-reference/) . El triunfo del evento depende de la **retención exitosa de los elfos conectados en los altares y la derrota final de Balgass** .
 
 <figure><img src="../.gitbook/assets/image (337).png" alt="" width="563"><figcaption><p>Invasion de Balgass</p></figcaption></figure>
 
@@ -47,8 +47,6 @@ Durante el evento Crywolf, todos los jugadores participantes verán un **HUD esp
 * Barra de alta presión Balgass
 
 <figure><img src="../.gitbook/assets/image (338).png" alt=""><figcaption><p>Casco de Crywolf</p></figcaption></figure>
-
-
 
 {% hint style="info" %}
 La **estatua del lobo** está situada en el centro de la fortaleza Crywolf .
@@ -86,7 +84,7 @@ Durante la primera ola de ataque, los jugadores primero deben derrotar a todos l
 
 ### ✅ Segunda Ola
 
-En los últimos **5 minutos** de la Invasión de Crywolf, el jugador tendrá que derrotar a [**Balgass** ](broken-reference)para triunfar con éxito en el Evento.
+En los últimos **5 minutos** de la Invasión de Crywolf, el jugador tendrá que derrotar a [**Balgass** ](../eventosprincipales/broken-reference/)para triunfar con éxito en el Evento.
 
 <figure><img src="../.gitbook/assets/image (343).png" alt=""><figcaption><p>Balgass</p></figcaption></figure>
 
@@ -97,8 +95,6 @@ Hay un límite de tiempo **de 15 minutos** para derrotar a todos los monstruos.
 {% endhint %}
 
 Para salir victorioso del **evento Crywolf,** hay que soportar la invasión y derrotar a las fuerzas enemigas. Para conseguir la victoria, es imprescindible que la **estatua del lobo** permanezca intacta durante todo el evento.
-
-
 
 {% hint style="success" %}
 **CONSEJO:**
@@ -119,4 +115,3 @@ En el caso de una **Defensa Crywolf** fallida , todo el Reino experimentará las
 * La tasa de caída de joyas **disminuirá en un 30%** .
 * **Se aplicará un castigo del 30% de EXP** a todos los jugadores del servidor.
 {% endhint %}
-

@@ -2,57 +2,57 @@
 
 ## GUIAS PRINCIPALES
 
-* [💎 BIENVENIDO!](README.md)
-* [📜 INFO SERVER](guias-principales/info-server.md)
-* [⭐ STAFF](guias-principales/staff.md)
+* [💎 CARACTERISTICAS](README.md)
 * [✅ COMANDOS](guias-principales/comandos.md)
 * [⚙️ RATES](guias-principales/rates.md)
+* [⏰ HORARIOS EVENT/INVAS](guias-principales/cronograma-eventos.md)
 * [🌟 COMPRAR VIP/WC](guias-principales/comprar-vip-wc.md)
+* [⭐ STAFF](guias-principales/staff.md)
+* [🏆 RANK USERS](guias-principales/rank-users.md)
+
+## EVENTOS
+
+* [BLOOD CASTLE](eventos/blood-castle.md)
+* [DEVIL SQUARE](eventos/devil-square.md)
+* [CHAOS CASTLE](eventos/chaos-castle.md)
+* [KANTURU EVENT](eventos/kanturu-event.md)
+* [CASTLE DEEP](eventos/castle-deep.md)
+* [CRYWOLF](eventos/crywolf.md)
+* [KALIMA](eventos/kalima-event.md)
+* [🐉 BOSS MONSTERS](eventos/boss-monsters/README.md)
+  * [⚡ Nightmare](eventos/boss-monsters/nightmare.md)
+  * [⚡ Kundun](eventos/boss-monsters/kundun.md)
+  * [⚡ Selupan](eventos/boss-monsters/selupan.md)
+  * [⚡ Medusa](eventos/boss-monsters/medusa.md)
+  * [⚡ Balgass](eventos/boss-monsters/balgass.md)
+  * [⚡ Dark Elf](eventos/boss-monsters/dark-elf.md)
+  * [⚡ Erohim](eventos/boss-monsters/erohim.md)
+* [🎁 LLUVIA DE ITEMS](eventos/lluvia-de-items.md)
+* [💥 HAPPY HOUR](eventos/happy-hour.md)
+* [🪙 GOLDEN ARCHER](eventos/golden-archer.md)
+* [🪙 LUCKY COINS](eventos/lucky-coins.md)
+* [⚔️ TEAM VS TEAM](eventos/team-vs-team.md)
+* [❓ PREGUNTAS](eventos/preguntas.md)
+* [⚔️ WARZONE](eventos/warzone.md)
+
+## INVASIONES
+
+* [SKELETON KING](invasiones/skeleton-king.md)
+* [👺 RED DRAGON](invasiones/red-dragon.md)
+* [🥇 GOLDEN INVASION](invasiones/golden-invasion.md)
+* [🧙‍♂️ WHITE WIZARD](invasiones/white-wizard.md)
+* [🐇 RABBITS](invasiones/rabbits.md)
+* [🌟 POUCH OF BLESSING](invasiones/pouch-of-blessing.md)
+* [⚡ AGHATION FIRE](invasiones/aghation-fire.md)
+* [⚡ AGHATION DARK](invasiones/aghation-dark.md)
+* [⚡ AGHATION](invasiones/aghation.md)
+* [⚡ CENTAUR](invasiones/centaur.md)
+* [⚡ POTTEN](invasiones/potten.md)
+* [⚡ Nemes](invasiones/nemes.md)
 
 ***
 
 * [🎁 PREMIOS X RESET](premios-x-reset.md)
-* [🏆 RANK USERS](rank-users.md)
-* [⏰ CRONOGRAMA EVENTOS](cronograma-eventos.md)
-* [⚡ EVENTOS](eventosprincipales/README.md)
-  * [BLOOD CASTLE](eventosprincipales/blood-castle.md)
-  * [DEVIL SQUARE](eventosprincipales/devil-square.md)
-  * [CHAOS CASTLE](eventosprincipales/chaos-castle.md)
-  * [KANTURU EVENT](eventosprincipales/kanturu-event.md)
-  * [🏰 Castle Deep](eventosprincipales/castle-deep.md)
-  * [🏰 Crywolf](eventosprincipales/crywolf.md)
-  * [🌐 Kalima Event](eventosprincipales/kalima-event.md)
-  * [🐉 BOSS MONSTERS](eventosprincipales/boss-monsters/README.md)
-    * [⚡ Nightmare](eventosprincipales/boss-monsters/nightmare.md)
-    * [⚡ Kundun](eventosprincipales/boss-monsters/kundun.md)
-    * [⚡ Selupan](eventosprincipales/boss-monsters/selupan.md)
-    * [⚡ Medusa](eventosprincipales/boss-monsters/medusa.md)
-    * [⚡ Balgass](eventosprincipales/boss-monsters/balgass.md)
-    * [⚡ Dark Elf](eventosprincipales/boss-monsters/dark-elf.md)
-    * [⚡ Erohim](eventosprincipales/boss-monsters/erohim.md)
-* [✨ EVENTOS ESP](eventos-esp/README.md)
-  * [🎁 LLUVIA DE ITEMS](eventos-esp/lluvia-de-items.md)
-  * [💥 HAPPY HOUR](eventos-esp/happy-hour.md)
-  * [🪙 GOLDEN ARCHER](eventos-esp/golden-archer.md)
-  * [🪙 LUCKY COINS](eventos-esp/lucky-coins.md)
-  * [⚔️ TEAM VS TEAM](eventos-esp/team-vs-team.md)
-  * [❓ PREGUNTAS](eventos-esp/preguntas.md)
-  * [⚔️ WARZONE](eventos-esp/warzone.md)
-* [INVASIONES](invasiones/README.md)
-  * [SKELETON KING](invasiones/skeleton-king.md)
-  * [👺 RED DRAGON](invasiones/red-dragon.md)
-  * [🥇 GOLDEN INVASION](invasiones/golden-invasion.md)
-  * [🧙‍♂️ WHITE WIZARD](invasiones/white-wizard.md)
-  * [🐇 RABBITS](invasiones/rabbits.md)
-  * [🌟 POUCH OF BLESSING](invasiones/pouch-of-blessing.md)
-* [🐲 INVASIONES ESP](invasiones-esp/README.md)
-  * [⚡ AGHATION FIRE](invasiones-esp/aghation-fire.md)
-  * [⚡ AGHATION DARK](invasiones-esp/aghation-dark.md)
-  * [⚡ AGHATION](invasiones-esp/aghation.md)
-  * [⚡ CENTAUR](invasiones-esp/centaur.md)
-  * [⚡ POTTEN](invasiones-esp/potten.md)
-  * [⚡ Nemes](invasiones-esp/nemes.md)
-* [⏰ HORARIOS EVENTOS](horarios-eventos.md)
 * [⚔️ GUIAS CREACION](guias-creacion/README.md)
   * [🪽 Alas](guias-creacion/alas/README.md)
     * [✅ Crear Arma Chaos](guias-creacion/alas/crear-arma-chaos.md)
@@ -112,12 +112,10 @@
   * [📥 SILVER/GOLDEN BOX](info-drop-items/silver-golden-box.md)
   * [💍 Started Rings](info-drop-items/started-rings.md)
 
-## EVENTOS E INVASIONES
-
-## CREACION DE ITEMS
-
-* [🇸🇴 Otras guias](creacion-de-items/otras-guias.md)
-
 ## ENLACES UTILES
 
-* [🌐 WEB SERVER](https://www.insidemu.net)
+* [WEB SERVER](https://www.mushadow.net/)
+* [DISCORD](https://discord.gg/GnsQc7hq)
+* [WHATSAPP](https://chat.whatsapp.com/Dui0o7wpcbF9G31SPkRdO7)
+
+## Group 1

@@ -1,8 +1,8 @@
 ---
-hidden: true
+icon: fort-awesome
 ---
 
-# 🌐 Kalima Event
+# KALIMA
 
 <figure><img src="../.gitbook/assets/image (319).png" alt="" width="350"><figcaption><p>Mapa Kalima - Ingreso especial de Evento</p></figcaption></figure>
 

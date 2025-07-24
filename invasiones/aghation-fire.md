@@ -25,5 +25,5 @@ Aparecerá un mensaje global para todos los jugadores cuando aparezca **Aghation
 {% hint style="info" %}
 **INFORMACIÓN:**
 
-Para ver a que hora comienza la invasión, puedes ir a la seccion de **"**[**Horario Eventos/Invas**](../cronograma-eventos.md)**".**
+Para ver a que hora comienza la invasión, puedes ir a la seccion de **"**[**Horario Eventos/Invas**](../guias-principales/cronograma-eventos.md)**".**
 {% endhint %}

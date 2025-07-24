@@ -1,8 +1,8 @@
 ---
-hidden: true
+icon: fort-awesome
 ---
 
-# 🏰 Castle Deep
+# CASTLE DEEP
 
 ## 🌎 Ubicacion del Evento.
 

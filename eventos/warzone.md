@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # ⚔️ WARZONE
 
 Este evento es un autentico todos contra todos, donde ingresarás siendo asesino, y el que mas players mate obtendrá un **gran premio en WCoins.**
@@ -21,8 +17,8 @@ Este evento es un autentico todos contra todos, donde ingresarás siendo asesino
 ## Tips para ganar el Evento
 
 * En este evento solo importa purgar a quien se te atraviese, eres tú contra todos y debes juntar la **mayor cantidad de Kills.**
-* **Equipate para PvP**, intenta ser **level ALTO** para cuando comience el evento.&#x20;
-* Podes correr por todo el mapa del evento, para no ser cazado.&#x20;
+* **Equipate para PvP**, intenta ser **level ALTO** para cuando comience el evento.
+* Podes correr por todo el mapa del evento, para no ser cazado.
 * Aprovecha cuanto ataquen a otro asesino para liquidarlo.
 
 {% hint style="info" %}
@@ -30,6 +26,6 @@ Este evento es un autentico todos contra todos, donde ingresarás siendo asesino
 
 * La recompensa del Evento es de <mark style="color:purple;">**1000WC.**</mark>
 * El Evento se realizará <mark style="color:purple;">**2 veces al DÍA.**</mark>
-* Para ver los horarios del Evento entra a [**Horarios Eventos/Invas**](../horarios-eventos.md)**.**
+* Para ver los horarios del Evento entra a [**Horarios Eventos/Invas**](broken-reference)**.**
 * El evento dura <mark style="color:purple;">**5 MINUTOS**</mark> antes de anunciar al ganador.
 {% endhint %}

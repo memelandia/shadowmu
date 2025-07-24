@@ -2,7 +2,7 @@
 
 ## 📝 En que consiste?
 
-Evento que tiene como finalidad intercambiar **Lucky Coins** que podras conseguir en[ Invasiones](../invasiones/), [Eventos Princiales](../eventosprincipales/) y [Eventos Especiales](./).
+Evento que tiene como finalidad intercambiar **Lucky Coins** que podras conseguir en[ Invasiones](broken-reference), [Eventos Princiales](broken-reference) y [Eventos Especiales](broken-reference).
 
 <figure><img src="../.gitbook/assets/image (344).png" alt=""><figcaption><p>Lucky Coin</p></figcaption></figure>
 
@@ -63,8 +63,7 @@ Para eso debes buscar el **NPC Delgado** que se encuentra en **MarketEvent.**
 
 * [Skeleton King](../invasiones/skeleton-king.md)
 * [Red Dragon](../invasiones/red-dragon.md)
-* [Blood Castle](../eventosprincipales/blood-castle.md)
+* [Blood Castle](blood-castle.md)
 * **Drop Monsters** de Tarkan/Aida/Icarus/Kanturu.
 
 ***
-

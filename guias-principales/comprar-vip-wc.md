@@ -1,14 +1,10 @@
 ---
 description: Beneficios de adquirir la membresia VIP MU Angel.
-cover: ../.gitbook/assets/ChatGPT Image 26 abr 2025, 12_21_37.png
-coverY: 0
 ---
 
 # 🌟 COMPRAR VIP/WC
 
 ## <mark style="color:yellow;">🛒 COMO COMPRAR WC</mark>
-
-
 
 {% hint style="success" %}
 🔗 Para comprar WC debes entrar aquí: 👉 [Comprar WC](https://insidemu.net/payment)
@@ -28,14 +24,12 @@ coverY: 0
 ## <mark style="color:yellow;">🎯 PARA QUE SIRVEN LOS WC?</mark>
 
 {% hint style="info" %}
-🏹 Puedes gastar WC en el **XSHOP**, donde puedes **comprar pets y consumibles** para el servidor.
+🏹 Puedes gastar WC en el **XSHOP**, donde puedes **comprar pets y consumibles** para el servidor.
 {% endhint %}
 
 ***
 
 ## 🏅 COMO COMPRAR VIP?
-
-
 
 {% hint style="success" %}
 🔗 Para comprar tu VIP debes ingresar aquí: 👉 [Comprar VIP](https://insidemu.net/vip)
@@ -54,8 +48,6 @@ coverY: 0
 4. 🆔 **Anota el ID de la cuenta o cuentas**.
 5. 📲 **Envía el ID y comprobante** por WhatsApp:\
    👉 [Enviar comprobante aquí](https://wa.link/toepiv)
-
-
 
 {% hint style="warning" %}
 ⚡ **Nota importante:**\

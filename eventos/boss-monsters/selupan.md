@@ -16,7 +16,7 @@ El **Selupan** solo puede ser derrotada dentro el **Evento LaCleon.**
 
 ## 🌎 Ubicación del Boss
 
-El paso que lleva al **Selupan** se llama Portal del Criadero, que se encuentra en [LaCleon ](broken-reference)**(147, 28).**
+El paso que lleva al **Selupan** se llama Portal del Criadero, que se encuentra en [LaCleon ](../../eventosprincipales/boss-monsters/broken-reference/)**(147, 28).**
 
 {% hint style="success" %}
 **CONSEJO:**

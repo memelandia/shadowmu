@@ -6,12 +6,12 @@ En el mundo místico de **Mu Angel** , se ha producido un cataclismo que ha sumi
 
 ## 📝 Como funciona el Evento?
 
-El Red Dragon invadirá **Lorencia, Noria O Devias**. Las **coordenadas donde aparece van cambiando y son al azar**, por lo que tendrás que buscar por todo el mapa hasta dar con él.&#x20;
+El Red Dragon invadirá **Lorencia, Noria O Devias**. Las **coordenadas donde aparece van cambiando y son al azar**, por lo que tendrás que buscar por todo el mapa hasta dar con él.
 
 ***
 
 ## 📦 Item Drop Boss Skeleton King
 
 {% hint style="success" %}
-Al matar al **Red Dragon** recibiras 5 <mark style="color:orange;">**Lucky Coin**</mark> que te servirá para intercambiarlos por items en el [**Evento Lucky Coins.**](../eventos-esp/lucky-coins.md)
+Al matar al **Red Dragon** recibiras 5 <mark style="color:orange;">**Lucky Coin**</mark> que te servirá para intercambiarlos por items en el [**Evento Lucky Coins.**](../eventos/lucky-coins.md)
 {% endhint %}

@@ -16,7 +16,6 @@
 
 ## 📝 Como obtener items Ancient.
 
-* Matando al Boss [**Medusa**](../../eventosprincipales/boss-monsters/medusa.md)**.**
+* Matando al Boss [**Medusa**](../../eventos/boss-monsters/medusa.md)**.**
 * En Monstruos de Land Of Trial.
-* Matando al Boss [**Kundun** ](../../eventosprincipales/boss-monsters/kundun.md)de Kalima 7.
-
+* Matando al Boss [**Kundun** ](../../eventos/boss-monsters/kundun.md)de Kalima 7.

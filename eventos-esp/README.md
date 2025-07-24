@@ -1,2 +1,0 @@
-# ✨ EVENTOS ESP
-

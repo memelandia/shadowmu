@@ -34,5 +34,5 @@ El **Boss Centaur** puede dropear los items con:
 {% hint style="info" %}
 **INFORMACIÓN:**
 
-Para ver a que hora comienza la invasión, puedes ir a la seccion de **"**[**Horario Eventos/Invas**](../horarios-eventos.md)**".**
+Para ver a que hora comienza la invasión, puedes ir a la seccion de **"**[**Horario Eventos/Invas**](broken-reference)**".**
 {% endhint %}

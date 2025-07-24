@@ -4,17 +4,17 @@
 
 El Dinorant no es solo útil por sus atributos de aumentar la velocidad de movimiento, sino también para ser usado en el mapa Icarus cuando aun no tienes tus alas, muchos personajes lo utilizan para hacer la 3º quest por falta de las mismas, ya que no podrás ingresar a este mapa si no tienes tus alas o un **Dinorant.**
 
-**Opciones basicas**&#x20;
+**Opciones basicas**
 
-* Aumento 15% de DMG y Wizard DMG.&#x20;
-* Absorbe el 10% de daño recibido.&#x20;
+* Aumento 15% de DMG y Wizard DMG.
+* Absorbe el 10% de daño recibido.
 * **Raid Skill** (solo usado por el Dark Night)
 
 ***
 
-**Opciones Aleatorias**&#x20;
+**Opciones Aleatorias**
 
-* Max AG+50 Increased (Aumenta el AG en +50)&#x20;
+* Max AG+50 Increased (Aumenta el AG en +50)
 * Increase Attacking (Wizardry)Speed +5 (Incrementa el Ataque +5).
 * Absorb 5% additional damage (Absorbe 5% del daño recibido).
 
@@ -40,6 +40,5 @@ Si la combinacion falla, los items desaparecerán, si la **combinacion es exitos
 **ATENCION:**\
 \- Horn of Uniria tienen que esta con **255 de Vitalidad** si no el Chaos Machine no lo aceptara para la combinación.\
 \- Horn of Uniria Dropea a **partir de Mounstros de Level 25.**\
-**-** Nos permite ir a **Icarus a partir de nivel 110**. Normalmente necesitaríamos nivel 180 y Alas de primer nivel.
+&#xNAN;**-** Nos permite ir a **Icarus a partir de nivel 110**. Normalmente necesitaríamos nivel 180 y Alas de primer nivel.
 {% endhint %}
-

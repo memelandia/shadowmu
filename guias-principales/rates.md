@@ -1,19 +1,80 @@
 ---
 description: Porcentajes de Exito / Party Bonus %
-cover: ../.gitbook/assets/ChatGPT Image 26 abr 2025, 11_57_04.png
-coverY: 0
 ---
 
-# ⚙️ RATES
+# ⚙️ RATES CREACION ITEMS
 
-## <mark style="color:yellow;">MAQUINA CHAOS</mark>
+### <mark style="color:yellow;">🎰 Rates de la Máquina del Chaos</mark>
 
-<table><thead><tr><th width="329" align="center">⬇️ Rate de</th><th width="207" align="center">🆓 PLAYER FREE</th><th>⭐ PLAYER VIP</th></tr></thead><tbody><tr><td align="center">Item +7, +8, +9 sin luck</td><td align="center">50%</td><td>60%</td></tr><tr><td align="center">Item +7, +8, +9 con luck</td><td align="center">70%</td><td>80%</td></tr><tr><td align="center">Items +10, +11, +12</td><td align="center">80%, 75%, 70% + luck</td><td>90%, 85%, 80% + luck</td></tr><tr><td align="center">Items +13, +14, +15</td><td align="center">65%, 60%, 35% + luck</td><td>75%, 70%, 40% + luck</td></tr><tr><td align="center">Alas Level 1</td><td align="center">60%</td><td>70%</td></tr><tr><td align="center">Alas Level 2</td><td align="center">50%</td><td>60%</td></tr><tr><td align="center">Alas Level 3</td><td align="center">30%</td><td>40%</td></tr><tr><td align="center">Capa DL</td><td align="center">50%</td><td>60%</td></tr><tr><td align="center">Socket Weapon Mix</td><td align="center">60%</td><td>70%</td></tr><tr><td align="center">Fragment of Horn Mix</td><td align="center">40%</td><td>50%</td></tr><tr><td align="center">Broken Horn Mix</td><td align="center">40%</td><td>50%</td></tr><tr><td align="center">Horn of Fenrir Mix</td><td align="center">30%</td><td>40%</td></tr><tr><td align="center">Feather of Condor</td><td align="center">40%</td><td>50%</td></tr></tbody></table>
+Aquí encontrarás el porcentaje de éxito para las combinaciones más importantes del juego. Los rates varían según tu nivel de membresía VIP.
+
+> <mark style="color:red;">🔴</mark> <mark style="color:red;"></mark><mark style="color:red;">**¡ADVERTENCIA CRÍTICA SOBRE EL BUG VISUAL!**</mark> \
+> El cliente del juego Season 6 tiene un **bug visual** que muestra un porcentaje de éxito incorrecto (generalmente 90% o 100%) en la ventana de la Máquina del Chaos. **ESE VALOR NO ES REAL**.
+>
+> Los **ÚNICOS** porcentajes de éxito **VÁLIDOS Y REALES** son los que se publican en esta guía. ¡Confía siempre en esta tabla, no en lo que veas en el juego!
+
+### <mark style="color:yellow;">✨ Mejora de Items (+10 a +15)</mark>
+
+| Combinación     | 👤 Player FREE | 🥈 Vip Plata | 🥇 Vip Oro |
+| --------------- | -------------- | ------------ | ---------- |
+| **Item a +10**  | `55%`          | `60%`        | `60%`      |
+| **Item a +11**  | `50%`          | `55%`        | `55%`      |
+| **Item a +12**  | `40%`          | `45%`        | `45%`      |
+| **Item a +13**  | `35%`          | `40%`        | `40%`      |
+| **Item a +14**  | `33%`          | `38%`        | `38%`      |
+| **Item a +15**  | `30%`          | `35%`        | `35%`      |
+
+### <mark style="color:yellow;">🦋 Creación de Alas y Capa</mark>
+
+| Combinación                     | 👤 Player FREE | 🥈 Vip Plata | 🥇 Vip Oro |
+| ------------------------------- | -------------- | ------------ | ---------- |
+| **Chaos Weapon** (para Alas S1) | `40%`          | `50%`        | `50%`      |
+| **Alas Nivel 1**                | `60%`          | `70%`        | `70%`      |
+| **Alas Nivel 2 y Capa de DL**   | `50%`          | `60%`        | `60%`      |
+| **Feather of Condor** (para S3) | `40%`          | `50%`        | `50%`      |
+| **Alas Nivel 3**                | `30%`          | `40%`        | `40%`      |
+
+### <mark style="color:yellow;">🐺 Creación de Mascotas (Pets)</mark>
+
+| Combinación                    | 👤 Player FREE | 🥈 Vip Plata | 🥇 Vip Oro |
+| ------------------------------ | -------------- | ------------ | ---------- |
+| **Crear un Dinorant**          | `40%`          | `50%`        | `50%`      |
+| **Spirit of Dark Raven/Horse** | `45%`          | `55%`        | `55%`      |
+| **Fragment of Horn**           | `40%`          | `50%`        | `50%`      |
+| **Broken Horn**                | `30%`          | `40%`        | `40%`      |
+| **Horn of Fenrir**             | `25%`          | `35%`        | `35%`      |
+| **Mejora del Fenrir**          | `20%`          | `30%`        | `30%`      |
+
+### <mark style="color:yellow;">🎟️ Combinaciones de Eventos y Items</mark>
+
+| Combinación                             | 👤 Player FREE | 🥈 Vip Plata | 🥇 Vip Oro |
+| --------------------------------------- | -------------- | ------------ | ---------- |
+| **Entrada Blood Castle / Devil Square** | `60%`          | `70%`        | `70%`      |
+| **Crear Frutas (Jewel of Creation)**    | `50%`          | `60%`        | `60%`      |
+| **Crear Potas de SD (grandes)**         | `30%`          | `30%`        | `30%`      |
+
+### <mark style="color:yellow;">💎 Items 380, Socket y Harmony</mark>
+
+| Combinación                 | 👤 Player FREE | 🥈 Vip Plata | 🥇 Vip Oro |
+| --------------------------- | -------------- | ------------ | ---------- |
+| **Crear Item 380 (Paso 1)** | `40%`          | `50%`        | `50%`      |
+| **Crear Item 380 (Paso 2)** | `35%`          | `45%`        | `45%`      |
+| **Crear Seed (Socket)**     | `60%`          | `70%`        | `70%`      |
+| **Crear Seed Sphere**       | `60%`          | `70%`        | `70%`      |
+| **Refinar J. of Harmony**   | `30%`          | `40%`        | `40%`      |
 
 ***
 
-## <mark style="color:yellow;">PARTY BONUS EXP</mark>
+### <mark style="color:yellow;">🤝 Bonus de Experiencia en Party</mark>
 
-<table><thead><tr><th width="329" align="center">⬇️ MIEMBROS</th><th width="207" align="center">⬇️ MISMA RAZA</th><th>⬇️ DISTINTA RAZA</th></tr></thead><tbody><tr><td align="center">2 Players</td><td align="center">EXP% + 5%</td><td>EXP% + 10%</td></tr><tr><td align="center">3 Players</td><td align="center">EXP% + 15%</td><td>EXP% + 20%</td></tr><tr><td align="center">4 Players</td><td align="center">EXP% + 25%</td><td>EXP% + 30%</td></tr><tr><td align="center">5 Players</td><td align="center">EXP% + 40%</td><td>EXP% + 50%</td></tr></tbody></table>
+Jugar en equipo no solo es más divertido, ¡sino también más rentable! Recibes un bono de experiencia que aumenta según el número de miembros y la diversidad de razas en tu party.
 
-***
+| Miembros en Party | Mismo Personaje | Distintos Personajes |
+| ----------------- | --------------- | -------------------- |
+| **2 Jugadores**   | `EXP + 5%`      | `EXP + 10%`          |
+| **3 Jugadores**   | `EXP + 15%`     | `EXP + 20%`          |
+| **4 Jugadores**   | `EXP + 25%`     | `EXP + 30%`          |
+| **5 Jugadores**   | `EXP + 40%`     | `EXP + 50%`          |
+
+> <mark style="color:green;">**✅ CONSEJO PARA MAXIMIZAR EXPERIENCIA:**</mark> \
+> Para obtener el mayor bono de EXP, ¡invita a jugadores de **distintas clases** a tu party! Una party completa con 5 personajes diferentes (DK, DW, ELF, MG, DL) te dará el máximo rendimiento. ¡La cooperación tiene su recompensa!

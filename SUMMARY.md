@@ -4,7 +4,7 @@
 
 * [💎 CARACTERISTICAS](README.md)
 * [✅ COMANDOS](guias-principales/comandos.md)
-* [⚙️ RATES](guias-principales/rates.md)
+* [⚙️ RATES CREACION ITEMS](guias-principales/rates.md)
 * [⏰ HORARIOS EVENT/INVAS](guias-principales/cronograma-eventos.md)
 * [🌟 COMPRAR VIP/WC](guias-principales/comprar-vip-wc.md)
 * [⭐ STAFF](guias-principales/staff.md)

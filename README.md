@@ -59,10 +59,8 @@ Contamos con un sistema de membresías para apoyar al servidor y obtener benefic
 
 ***
 
-#### <mark style="color:yellow;">¡Únete a la Comunidad!</mark>
+### <mark style="color:yellow;">¡Únete a la Comunidad!</mark>
 
 🛡️ **PvP Balanceado** | 💬 **Comunidad Activa** No te quedes fuera, descarga el juego y únete a nuestro Discord para estar al tanto de todo.
 
 🔗 [**Descarga el Cliente**](https://mushadow.net/downloads) 💬&#x20;
-
-Te invitamos a formar parte de nuestra comunidad en el servidor **InsideMU**. Aquí podrás disfrutar de una experiencia única, con emocionantes batallas, misiones desafiantes y un ambiente lleno de jugadores apasionados por el mundo de MU.

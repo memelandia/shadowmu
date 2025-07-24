@@ -1,4 +1,4 @@
-# ✅ Crear Guild
+# ⚔️ CREAR GUILD
 
 Los Clanes juegan un papel importante en el juego de MU Online. Permiten a los jugadores crear sus propias pequeñas comunidades y ayudarse entre sí dentro del juego. Algunos clanes se crearon para unir amigos, otros para unir poderes. En otras palabras, los gremios son un símbolo de unidad en el juego de MU Online.
 
@@ -14,7 +14,7 @@ Para solicitar crear un Guild debes ir a **Devias (215, 45)** al centro de la cu
 
 Después de informar al NPC tu intención de crear un Guild, debes proporcionar un nombre al Guild y crear una logo del Guild. Una vez que se hayan creado un nombre del gremio y un logo del gremio, ningúna correcion puede ser hecha así que aconsejamos que elijas cada uno con extremo cuidado.
 
-<div><figure><img src="../.gitbook/assets/image (841).png" alt=""><figcaption><p>Paso 1 - Crear Guild</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (843).png" alt=""><figcaption><p>Paso 2 : Ingresar nombre<br> y crear Logo</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (844).png" alt=""><figcaption><p>Paso3 : Confirmar Creacion</p></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/image (841).png" alt=""><figcaption><p>Paso 1 - Crear Guild</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (843).png" alt=""><figcaption><p>Paso 2 : Ingresar nombre<br>y crear Logo</p></figcaption></figure> <figure><img src="../.gitbook/assets/image (844).png" alt=""><figcaption><p>Paso3 : Confirmar Creacion</p></figcaption></figure></div>
 
 ## 📝 **Forma de Ingreso a un Guild**
 
@@ -42,7 +42,7 @@ Si eres ya un miembro del Guild, y no un Guild Master, y tú desear dejar el Gui
 
 ## 📝 Guerra de Clanes
 
-`Commando:`` `**`/war o GuildWar`**` ``(guildname)`
+` Commando:`` `` `**`/war o GuildWar`**` `` ``(guildname) `
 
 El Guild Master tiene la **capacidad de desafiar a otro guild a una guerra**. Una vez que el otro Guild acepte el duelo, los miembros de ambos Guild pueden atacarse inmediatamente.
 
@@ -69,4 +69,3 @@ Los nombres de los Guild aliados aparecerán en verde para indicar su alianza a 
 Los Guild pueden ahora declarar hostilities hacia otros Guild. Cuando se permite esto todos los miembros del Guild de oposición aparecerán como los señalan por medio de una bandera para PK y no se dará ninguna pena para atacar y matar a miembros del Guild de oposición.
 
 Los nombres de los Guilds hostiles aparecerán rojos en tu pantalla como si fueran señalados por medio de una bandera como proscribir. Atacar y derrotar a miembros hostiles del Guild no te señalarán por medio de una bandera como proscribir.
-

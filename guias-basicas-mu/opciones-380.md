@@ -1,4 +1,4 @@
-# ✅ Opciones 380
+# ⚡ OPCIONES 380
 
 <figure><img src="../.gitbook/assets/image (451).png" alt=""><figcaption></figcaption></figure>
 
@@ -26,7 +26,7 @@ Las **opciones 380** fueron agregadas apartir de la versión Season II estas opc
 <figure><img src="../.gitbook/assets/image (453).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-**NOTA:**&#x20;
+**NOTA:**
 
 * Si tienes exito en la combinacion, el i**tem tendra 2 opciones**, si no solo perderas **las jewels el item no se pierde ni baja de nivel.**
 * Cuanto **mas nivel tenga el item mayor probabilidad de exito tendras.**
@@ -42,32 +42,32 @@ Las **opciones 380** fueron agregadas apartir de la versión Season II estas opc
 
 ### <mark style="color:purple;">**Opciones 380**</mark>**&#x20;de los items.**
 
-#### <mark style="color:red;">Armor:</mark>&#x20;
+#### <mark style="color:red;">Armor:</mark>
 
-* SD Auto Recovery: Recupera automaticamente el SD&#x20;
+* SD Auto Recovery: Recupera automaticamente el SD
 * Defense Success Rate increase +10
 
-#### <mark style="color:red;">Pants:</mark>&#x20;
+#### <mark style="color:red;">Pants:</mark>
 
 * Defensive Skill +200
 * Defense Success Rate increase +10
 
-#### <mark style="color:red;">Gloves:</mark>&#x20;
+#### <mark style="color:red;">Gloves:</mark>
 
 * Max HP increase +200
 * Defense Success Rate increase +10
 
-#### <mark style="color:red;">Boots:</mark>&#x20;
+#### <mark style="color:red;">Boots:</mark>
 
 * Max SD increase +700
 * Defense Success Rate increase +10
 
-#### <mark style="color:red;">Helm:</mark>&#x20;
+#### <mark style="color:red;">Helm:</mark>
 
 * SD Recovery Rate increase +20
 * Defense Success Rate increase +10
 
-#### <mark style="color:red;">Weapon:</mark>&#x20;
+#### <mark style="color:red;">Weapon:</mark>
 
 * Additional Damage +200
 * Attack Success Rate increase +10
@@ -85,4 +85,3 @@ Las **opciones 380** fueron agregadas apartir de la versión Season II estas opc
 3. Proceso de creación finalizado.
 
 <figure><img src="../.gitbook/assets/image (456).png" alt=""><figcaption></figcaption></figure>
-

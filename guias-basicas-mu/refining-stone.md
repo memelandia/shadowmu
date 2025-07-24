@@ -1,4 +1,4 @@
-# ✅ Refining Stone
+# 🪨 REFINING STONE
 
 <figure><img src="../.gitbook/assets/image (582).png" alt=""><figcaption></figcaption></figure>
 
@@ -13,7 +13,7 @@ Cada **Refining Stone** se crea con 1 items los cuales se refinan en el **NPC Os
 <figure><img src="../.gitbook/assets/image (583).png" alt=""><figcaption><p>NPC Osbourne</p></figcaption></figure>
 
 {% hint style="info" %}
-**NOTA:**&#x20;
+**NOTA:**
 
 * Si la combinacion falla el item desaparecera.
 * Todos los items se pueden refinar, algunos items necesariamente tienen que estar Nivel +4 para poder refinarlos.
@@ -27,7 +27,7 @@ No hay informacion referente al porcentaje de exito que tienen tanto High Refini
 **High Refining Stone = 75%** de porcentaje que refuerze el Item.
 
 {% hint style="warning" %}
-**NOTA:**&#x20;
+**NOTA:**
 
 * Si en caso fallara el reforzamiento el **item bajaria al valor inicial dado por el Jewel of Harmony.**
 * Si al insertar un Jewel of Harmony a un Item NO sale la opcion deseada se puede hacer un proceso para **quitar esa opcion**, el proceso se hace mediante el **NPC Jerridon ubicado en Aida (86, 13)**

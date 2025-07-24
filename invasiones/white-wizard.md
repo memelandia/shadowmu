@@ -15,10 +15,8 @@ Junto al **Mago Blanco** se encuentran formidables aliados **orcos** conocidos p
 ## 📦 Item Drop Boss White Wizard
 
 {% hint style="info" %}
-Al matar al **White Wizzrd** recibiras  una <mark style="color:yellow;">**Silver Key o Golden Key**</mark> para abrir las [Silver/Golden Box ](../info-drop-items/silver-golden-box.md)y los Orcos que lo acompañan un [<mark style="color:yellow;">**Wizard's Ring**</mark>](#user-content-fn-1)[^1]<mark style="color:yellow;">.</mark>
+Al matar al **White Wizzrd** recibiras una <mark style="color:yellow;">**Silver Key o Golden Key**</mark> para abrir las [Silver/Golden Box ](../drop-de-items/silver-golden-box.md)y los Orcos que lo acompañan un [<mark style="color:yellow;">**Wizard's Ring**</mark>](#user-content-fn-1)[^1]<mark style="color:yellow;">.</mark>
 {% endhint %}
-
-
 
 [^1]: ATK\WIZ DMG +10%
 

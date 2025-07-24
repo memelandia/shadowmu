@@ -1,4 +1,4 @@
-# ✅ Harmony y sus opciones
+# 🧿 OPCION HARMONY
 
 El **Jewel of Harmony** es un jewel que sale de el **refinamiento de la Gemstone** que solo dropea en el **Mapa Kanturu.**
 

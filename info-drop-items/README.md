@@ -1,2 +1,0 @@
-# ✨ INFO DROP ITEMS
-

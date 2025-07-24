@@ -1,6 +1,4 @@
-# ✅ Socket System
-
-
+# 🪄 SOCKET SYSTEM
 
 <figure><img src="../.gitbook/assets/image (549).png" alt=""><figcaption></figcaption></figure>
 
@@ -196,4 +194,4 @@ Teniendo las **siguientes propiedades en tus items socket** se podra otorgar **o
 
 <figure><img src="../.gitbook/assets/image (581).png" alt=""><figcaption></figcaption></figure>
 
-\
+\\
